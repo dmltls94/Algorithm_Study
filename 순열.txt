@@ -1,0 +1,11 @@
+permutations - 모든순열구하기, 순서O, 원소중복X
+AB BA는 달라서 둘다 나옴
+
+combinations - 순서X, 원소중복X 제일 수가 적음
+AB BA는 같아서 한번만 나옴
+
+product - 순서O, 원소중복O, permutations에서 원소중복시킨것
+AB BA는 달라서 둘다 나옴
+
+combinations_with_replacement - 순서X, 원소중복O
+AB BA는 같아서 한번만 나옴
